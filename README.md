@@ -1,5 +1,8 @@
 # try-chat-gpt
 
+ * [シックスハット法](#シックスハット法)
+ * [Pros/Cons 法](#proscons-法)
+
 # シックスハット法
 
 Prompt:
