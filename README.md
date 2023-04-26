@@ -10,4 +10,5 @@
  * [今日の献立](./examples/todays-menu.md)
  * [表示形式を変更する](./examples/change-output-format.md)
  * [リレー作文](./examples/relay-composition.md)
+ * [詳しい説明文](./examples/detailed-description.md)
 
